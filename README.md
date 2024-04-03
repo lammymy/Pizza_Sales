@@ -9,3 +9,8 @@ Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" 
 - SQL Server - Using SQL queris to solve problem statement
 - SSMS
 - Power BI - Data Cleaning using Power Query, Data Processing, Create Dashboard
+### SQL Queries
+- SQL Queries for KPI's
+- SQL Queries for Daily and Monthly Trend
+- SQL Queries for % of Sales by Category & Size
+- SQL Queries for Top 5 
