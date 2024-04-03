@@ -5,7 +5,7 @@ This data analysis project aims to conduct a comprehensive analysis of pizza sal
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" file, containing detailed information about each sale made by the company.
 ### Tools
-- Excel
-- SQL Server
+- Excel - Import raw data
+- SQL Server - Using SQL queris to solve problem statement
 - SSMS
-- Power BI
+- Power BI - Data Cleaning using Power Query, Data Processing, Create Dashboard
