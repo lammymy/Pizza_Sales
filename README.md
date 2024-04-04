@@ -14,3 +14,8 @@ Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" 
 - SQL Queries for Daily and Monthly Trend
 - SQL Queries for % of Sales by Category & Size
 - SQL Queries for Top 5 
+### Data Cleaning and Processing
+- Used power query to convert "pizza_size" column.
+- Created some new measures.
+### Visualization
+- Created a Dashboard 
