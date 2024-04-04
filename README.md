@@ -22,4 +22,11 @@ Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" 
 - Used LEFT funtion to add new columns "order_date" and "order_month" with 3 letters.
 - Created some new measures.
 ### Visualization
-- Created a Dashboard with cards, bar chart,area chart, donut chart, pie chart
+- Created a dashboard with slicer, cards, bar chart,area chart, donut chart, funnel chart.
+  - Cards: Total Revenua, Orders, Quantity, AOV
+  - Bar chart: Daily Trend
+  - Area chart: Monthly Trend
+  - Donut chart: % sales by category, size
+  - Funnel chart: Total quantity sold by category
+- Get some insights about days, monthly, category, size.
+- Buttons used to navigative from the main dashboard to the best/worst dashboard
